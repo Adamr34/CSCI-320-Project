@@ -1,0 +1,12 @@
+Team Name - Jeremy Brown Loves Java
+Qadir - Design Engineer:  
+    + Site Design
+    + Primary Programming
+Jennie - UI Engineer: 
+    + UI 
+    + Product design 
+Joe - Team Lead:
+    + Facilitated Meetings
+    + Main Schema Diagram
+Adam - Test Engineer: 
+    + Ensured product was working from different systems
