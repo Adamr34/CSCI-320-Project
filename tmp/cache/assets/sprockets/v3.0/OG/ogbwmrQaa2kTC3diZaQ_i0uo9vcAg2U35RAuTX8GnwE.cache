@@ -1,0 +1,13 @@
+I"ó(function() {
+  Spree.fetch_cart = function() {
+    return $.ajax({
+      url: Spree.pathFor("/cart_link"),
+      cache: false,
+      success: function(data) {
+        return $('#link-to-cart').html(data);
+      }
+    });
+  };
+
+}).call(this);
+:ET
